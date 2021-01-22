@@ -15,8 +15,8 @@ There are three datasets for the three job titles: Data Scientist, Data Analyst,
 | employerProfileName | NA  |
 | jobTitle            | Junior Data Scientist  - Graduate   |
 | locationName        | London    |
-| minimumSalary       | 27000    |
-| maximumSalary       | 30000    |
+| minimumSalary       | 27000   (note this is sometimes a day rate not an annual salary) |
+| maximumSalary       | 30000   (ditto) |
 | currency            | GBP   |
 | expirationDate      | 25/02/2021   |
 | date                | 14/01/2021  |
