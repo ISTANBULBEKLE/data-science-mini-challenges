@@ -28,3 +28,9 @@ Many of the algorithms used in Europe and the US are proprietory, so we don't kn
 * [YARC- Standardised reading comprehension test](https://www.gl-assessment.co.uk/products/york-assessment-of-reading-for-comprehension-yarc/ )
 
 * [Coh -Matrix and relevent documentation](http://cohmetrix.com/); [Information on how it works](https://www.researchgate.net/publication/8358727_Coh-Metrix_Analysis_of_text_on_cohesion_and_language); [Webtool](http://141.225.61.35/CohMetrix2017/)
+
+## Challenges
+
+1. Create new features (columns) for some of the language features. You can do this in Excel or you might want to use a Python language library such as [NLTK](http://www.nltk.org/) or [Spacy](https://spacy.io/)
+
+2. (Advanced) Create a predictive model that will take an unseen piece of text and give a reading age prediction.

@@ -28,6 +28,8 @@ There are three datasets for the three job titles: Data Scientist, Data Analyst,
 
 ## Challenges
 
-1. What interesting insights can you gain from the datasets?
-2. What is the different focus of the different job roles?
+1. What interesting insights can we gain from the datasets?
+2. What is the different focus & ewmphasis of the different job roles?
 3. What does it tell you about what you need to learn on the MSc?
+
+For basic exploration and analysis, you can use Excel. For more advanced analysis you might want to use a Python language library such as [NLTK](http://www.nltk.org/) or [Spacy](https://spacy.io/)
